@@ -1,4 +1,4 @@
-package org.example.backendkelaspbo.config;
+package org.example.backend.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;
