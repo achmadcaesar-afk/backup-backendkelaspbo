@@ -1,4 +1,4 @@
-package org.example.backend.enums;
+package org.example.backendkelaspbo.enums;
 
 public enum PowerUpType {
     ROCK,        // Taruh batu di belakang

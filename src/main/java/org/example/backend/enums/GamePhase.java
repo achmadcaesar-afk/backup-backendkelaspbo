@@ -1,4 +1,4 @@
-package org.example.backend.enums;
+package org.example.backendkelaspbo.enums;
 
 public enum GamePhase {
     COUNTDOWN,  // Hitung mundur 3-2-1
